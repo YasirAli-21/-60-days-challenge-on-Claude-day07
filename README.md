@@ -69,16 +69,48 @@ This repository documents my journey through the **60 Days of AI Challenge**, wh
 - Different personas provide different perspectives on the same question
 - Role-Based Prompting improves context, accuracy, and usefulness
 - The quality of AI outputs depends heavily on the instructions provided
-
+- 
 #### Biggest Observation
 
 The same question produced significantly different answers when different personas were assigned. A Founder focused on strategy and growth, while a Developer focused on implementation and technical execution. This demonstrated how Role-Based Prompting can transform generic responses into expert-level guidance.
 
-- [x] Day 1 - AI Personality Profile
-- [x] Day 2 - Prompt Engineering
-- [x] Day 3 - Role-Based Prompting
-- [ ] Day 4
-- [ ] Day 5
+### Day 4 – Chain-of-Thought Prompting
+- Generated a personalized AI Engineer career roadmap
+- Identified current strengths and skill gaps
+- Learned the importance of structured reasoning
+- Created a 12-month roadmap with milestones and action steps
+- Documented key insights and future learning priorities
+
+### Day 5 – Context Engineering
+- Compared outputs with and without context
+- Learned how context improves personalization and relevance
+- Generated a customized learning roadmap
+- Understood the impact of providing goals, skills, and constraints
+- Documented key observations and learnings
+
+### Day 6 – Resume Optimization with AI
+- Analyzed resume using ATS principles
+- Improved ATS score from 52 to 83
+- Optimized resume structure, keywords, and formatting
+- Learned the importance of recruiter-friendly and ATS-friendly resumes
+- Created an improved professional resume
+
+### Day 7 – Claude Usage Strategy
+- Learned how to use Claude more effectively
+- Explored model selection (Haiku, Sonnet, Opus)
+- Understood effort levels (Low, Standard, High, Max)
+- Created a personalized AI workflow for learning and career growth
+- Learned when to use different models for different tasks
+
+### Current Challenge Status
+
+✅ Day 1 Completed  
+✅ Day 2 Completed  
+✅ Day 3 Completed  
+✅ Day 4 Completed  
+✅ Day 5 Completed  
+✅ Day 6 Completed  
+✅ Day 7 Completed
 
 ## 🌱 Future Focus
 
