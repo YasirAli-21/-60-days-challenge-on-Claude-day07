@@ -102,6 +102,20 @@ The same question produced significantly different answers when different person
 - Created a personalized AI workflow for learning and career growth
 - Learned when to use different models for different tasks
 
+# Day 8 - Environmental Health Analyzer
+
+## What I Did
+- Generated an Environmental Health Analyzer dashboard using Claude.
+- Explored AQI metrics, charts, filters, and insights.
+- Tested the interactive dashboard and reviewed recommendations.
+
+## Key Learnings
+- AI can generate complete dashboard applications from detailed prompts.
+- Data visualization makes information easier to understand.
+- Better prompts produce better applications.
+
+## Biggest Insight
+A detailed prompt can help AI build a complete interactive application, not just answer questions.
 ### Current Challenge Status
 
 ✅ Day 1 Completed  
@@ -111,6 +125,7 @@ The same question produced significantly different answers when different person
 ✅ Day 5 Completed  
 ✅ Day 6 Completed  
 ✅ Day 7 Completed
+✅ Day 8 Completed
 
 ## 🌱 Future Focus
 
